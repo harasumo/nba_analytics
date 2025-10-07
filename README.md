@@ -20,7 +20,7 @@ DataHoop Analytics — спортивно-аналитическая компа�
 - Python 3.8+
 - Библиотеки:
   ```bash
-  pip install psycopg2 pandas
+  pip install requirements.txt
 
-python main.py
+  python main.py
 
