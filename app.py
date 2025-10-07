@@ -7,7 +7,7 @@ import pandas as pd
 DB_SETTINGS = {
     "dbname": "nba_db",
     "user": "anuar21",
-    "password": "",   # ← замени на свой пароль
+    "password": "",   
     "host": "localhost",
     "port": "5432"
 }
